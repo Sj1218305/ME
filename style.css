@@ -1,0 +1,38 @@
+    display: block;
+    line-height: 1.7 !important;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.navbar {
+    padding-top: 0.7rem;
+    padding-right: 1.5rem;
+    padding-bottom: 0.7rem;
+    padding-left: 1.5rem;
+}
+
+.section {
+    padding: 3.6rem 2rem 0;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.is-rounded {
+    /* transform: rotate(90deg); */
+    border-radius: 5px !important;
+}
+
+.is-128x128 {
+    height: 330px !important;
+    width: 330px !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0rem;
+    margin-bottom: 1.5rem;
+}
